@@ -1,0 +1,42 @@
+body{
+    display:flex;
+    flex-direction: column;
+}
+
+.header{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.top-container{
+    display:flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 40px;
+}
+
+.section-two{
+    display:flex;
+    justify-content: space-between;
+    padding: 40px;
+}
+
+.left-links{
+    display: flex;
+    gap: 16px;
+    list-style-type: none;
+    padding:0;
+    margin:0;
+
+}
+
+.left-sides2{
+    width:300px;
+    height: 200px;
+}
+
+.image-right{
+    width:250px;
+    height: 150px;
+}
