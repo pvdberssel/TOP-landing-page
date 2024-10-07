@@ -10,7 +10,7 @@ body{
     flex-direction: column;
     background-color: #1f2937;
     height: 500px;
-    padding: 0px 250px;
+    padding: 0px 100px;
     
 }
 
@@ -58,6 +58,7 @@ h3{
  .left-sides2 p{
     font-size: 18px;
     color:#E5E7EB;
+    min-width:200px;
 }
 
 .left-links{
@@ -153,6 +154,7 @@ h3{
 
 .container-signup{
     margin: 100px;
+    
     background-color: #3882F6;
     display:flex;
     padding: 30px;
